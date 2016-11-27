@@ -17,7 +17,7 @@ throughout the suit effect, until Samus leaves elevator pose.
 
 This can happen in the vanilla game:
 fire the grapple beam just before picking up Gravity Suit.
-If done late enough, it doesn’t hit the door, and the Gravity Suit is _electric._
+If done late enough, it doesn’t complete before triggering the pickup, and the Gravity Suit is _electric._
 
 I’ve tracked a root cause of the problem, but I haven’t decided what to do about it.
 And it’s tripled the length of time I’ve spent on this.
