@@ -11,7 +11,6 @@ org $94A851
 ; TODO: find the V-collision table (or understand why it's unneeded?)
 
 ; can be placed anywhere in bank $94 free space
-; 29 ($1D) bytes long
 org $94B400
 pickup:
 	LDX $0DC4  ; reload block index
