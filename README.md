@@ -28,7 +28,6 @@ But with Samus in elevator pose, actually calling that code is skipped.
 $C856 never gets to clear grapple state and change the pointer to $C4F0, beam off.
 Which happens to also be the only value that prevents re-starting the sound.)
 
-
 # Credits
 
 This patch could not exist without docs by Kejardon, pjboy, Scyzer,
