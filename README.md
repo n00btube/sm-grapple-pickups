@@ -7,8 +7,8 @@ Why not?
 
 In the original game, item pickups are inert for all projectiles.
 
-`grapple-pickups` patches the PLM code to make grapple count as picking them
-up.  Uses some free space in bank $94 (for collision detection.)
+`grapple-pickups` patches the block collision code to make grapple count as picking them
+up.  Uses some free space in bank $94.
 
 # Known Issue
 
